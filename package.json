@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "ecomm": "node index.js",
+    "start": "node index.js",
     "prepare": "husky install"
   },
   "repository": {
